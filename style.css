@@ -1,0 +1,11 @@
+.resultado {
+    background-color: rgb(143, 184, 255);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 48, 90);
+    font-weight: 600;
+    font-size: 22px;
+    padding: 20px;
+    border-radius: 5px;
+}
